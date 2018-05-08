@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabsMobiles</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="form">Agregar formulario</string>
+    <string name="form_list">Ultimos formularios</string>
+    <string name="summary">Resumen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

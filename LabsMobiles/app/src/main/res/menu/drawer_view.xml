@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_form"
+            android:icon="@drawable/form"
+            android:title="@string/form" />
+        <item
+            android:id="@+id/nav_form_list"
+            android:icon="@drawable/form_list"
+            android:title="@string/form_list" />
+        <item
+            android:id="@+id/nav_summary"
+            android:icon="@drawable/summary"
+            android:title="@string/summary" />
+    </group>
+</menu>
